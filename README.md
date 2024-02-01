@@ -21,7 +21,7 @@ _Прошло много лет с момента последней части.
 
 Программы:  
 - Adobe After Effects 24.1.0 (Build 78) - Эффекты, Композинг  
-- _Adobe Premiere Pro 2024 - Композинг_  
+- _Adobe Premiere Pro 24.1.0 (Build 85) - Композинг_  
 - Ableton Live 12 - Обработка звука  
 - Resonic Player Beta 0.9.3
 
