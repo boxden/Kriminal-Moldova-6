@@ -21,14 +21,14 @@ _Прошло много лет с момента последней части.
 
 Программы:  
 - Adobe After Effects 24.1.0 (Build 78) - Эффекты, Композинг  
-- * Adobe Premiere Pro 2024 - Композинг  
+- _Adobe Premiere Pro 2024 - Композинг_  
 - Ableton Live 12 - Обработка звука  
 - Resonic Player Beta 0.9.3
 
 Плагины для программ Adobe:  
 - Video Copilot - FX Console 1.0.5  
 - Video Copilot - Element 3D 2.2.3  
-- * Video Copilot - Twitch 1.1  
+- _Video Copilot - Twitch 1.1_  
 - Maxon Red Giant - Universe 2024.1.0  
 - Maxon Red Giant - Magic Bullet Suite  
 - Maxon Red Giant - Effects Suite  
@@ -44,7 +44,7 @@ _Прошло много лет с момента последней части.
 - Владик  
 - Денис  
 - Дима  
-- -Даша-  
+- _Даша_  
 - Корячкин  
 - Кристи  
 - Мариус  
