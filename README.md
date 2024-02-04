@@ -30,8 +30,8 @@ _Прошло много лет с момента последней части.
 - Video Copilot - Element 3D 2.2.3  
 - _Video Copilot - Twitch 1.1_  
 - Maxon Red Giant - Universe 2024.1.0  
-- Maxon Red Giant - Magic Bullet Suite  
-- Maxon Red Giant - Effects Suite  
+- Maxon Red Giant - Magic Bullet Suite 2024.1.0  
+- Maxon Red Giant - VFX Suite 2024.1.0  
 - BorisFX - Sapphire 2024.02
 
 Аудио исходники:  
