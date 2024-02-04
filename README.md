@@ -26,17 +26,17 @@ _Прошло много лет с момента последней части.
 - Resonic Player Beta 0.9.3
 
 Плагины для программ Adobe:  
-- BorisFX - Sapphire 2024.02
+- BorisFX - Sapphire 2024.02  
 - Video Copilot - FX Console 1.0.5  
 - Video Copilot - Element 3D 2.2.3  
 - _Video Copilot - Twitch 1.1_  
 - Maxon Red Giant - Universe 2024.1.0  
 - Maxon Red Giant - Magic Bullet Suite 2024.1.0  
-- Maxon Red Giant - VFX Suite 2024.1.0  
+- Maxon Red Giant - VFX Suite 2024.1.0
 
 Аудио исходники:  
-- WATCH_DOGS
-- Driver: San Francisco  
+- WATCH_DOGS  
+- Driver: San Francisco
 
 Состав актеров:  
 - Андриешь  
