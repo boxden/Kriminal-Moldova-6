@@ -25,6 +25,7 @@
 - Maxon Red Giant - Universe 2024.1.0
 - Maxon Red Giant - Magic Bullet Suite 2024.1.0
 - Maxon Red Giant - VFX Suite 2024.1.0
+- Plugin Ogg_v0.5b6_win
 
 Аудиоисточники:
 - WATCH_DOGS
