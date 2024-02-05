@@ -5,39 +5,39 @@
 Дата начала создания:
 1 Февраля 2024
 
-Дата завершения создания:
+Дата окончания создания:
 2024
 
-Длительность: 
+Длительность:
 ~ 15 Минут
 
 Кадров в секунду:
 24 Кадра в секунду
 Традиционное количество кадров для анимаций
 
-Метод создания:
+Методика создания:
 - Основной 2D, частично 3D
 
 Программы:
 - Adobe After Effects 24.1.0 (Build 78) - Эффекты, Композинг
-- * Adobe Premiere Pro 2024 - Композинг
+- Adobe Premiere Pro 24.1.0 (Build 85) - Композинг
 - Ableton Live 12 - Обработка звука
-- Resonic Player Beta 0.9.3
+- Resonic Player Beta 0.9.3 - Удобный аудиоплеер
 
 Плагины для программ Adobe:
+- BorisFX - Sapphire 2024.02
 - Video Copilot - FX Console 1.0.5
 - Video Copilot - Element 3D 2.2.3
 - * Video Copilot - Twitch 1.1
 - Maxon Red Giant - Universe 2024.1.0
-- Maxon Red Giant - Magic Bullet Suite
-- Maxon Red Giant - Effects Suite
-- BorisFX - Sapphire 2024.02
+- Maxon Red Giant - Magic Bullet Suite 2024.1.0
+- Maxon Red Giant - VFX Suite 2024.1.0
 
-Аудио исходники:
+Аудиоисточники:
+- WATCH_DOGS
 - Driver: San Francisco
-- Watch Dogs
 
-Состав актеров:
+Актёрский состав:
 - Андриешь
 - Ваня
 - Владик
@@ -50,7 +50,6 @@
 - Палайчук
 - Петя
 - Серый
-
 
 
 Данный файл является техническим журналом и предоставлен для ознакомления
