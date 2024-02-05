@@ -27,7 +27,8 @@ _Казалось, что этого никогда не настанет. Но 
 - _Video Copilot - Twitch 1.1_  
 - Maxon Red Giant - Universe 2024.1.0  
 - Maxon Red Giant - Magic Bullet Suite 2024.1.0  
-- Maxon Red Giant - VFX Suite 2024.1.0
+- Maxon Red Giant - VFX Suite 2024.1.0  
+- Plugin Ogg_v0.5b6_win
 
 Аудиоисточники:  
 - WATCH_DOGS  
