@@ -15,8 +15,8 @@ _Казалось, что этого никогда не настанет. Но 
 Методика создания: основной 2D, частично 3D
 
 Программы:  
-- Adobe After Effects 24.1.0 (Build 78) - эффекты, композинг  
-- _Adobe Premiere Pro 24.1.0 (Build 85) - композинг_  
+- Adobe After Effects 24.3.0 (Build 50) - эффекты, композинг  
+- _Adobe Premiere Pro 24.3.0 (Build 59) - композинг_  
 - Ableton Live 12 - обработка звука  
 - Resonic Player Beta 0.9.3 - удобный аудиоплеер
 
